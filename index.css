@@ -1,0 +1,54 @@
+
+body{
+  background-color: #92B4EC !important;
+  align-content: center;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.bar{
+  color: #ff0000;
+  background-color: #FFD36E;
+  font-size: 2rem;
+  font-style: normal;
+  text-align: left;
+  font-family: 'Koulen', cursive;
+}
+
+.menu{
+padding: 2rem 2rem 0 2rem;
+}
+
+.Intro{
+  padding-left: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+  background-color: #FFE69A;
+  margin-bottom: 0;
+  font-family: 'Cedarville Cursive', cursive;
+  text-align: center;
+}
+
+.intro1{
+    font-family: 'Grape Nuts', cursive;
+    text-align: center;
+}
+
+.about-me{
+  text-align: center;
+  padding: 6rem 6rem 6rem 6rem;
+}
+
+.social{
+  text-align: center;
+  align-content: center;
+}
+
+.icon{
+  margin: 5% 3% 5% 0;
+}
+
+.copyrights{
+  text-align: center;
+}
