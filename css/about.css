@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+    background: #343434;
+}
+
+html{
+  background: #171717;
+}
+
+
+
+.main{
+  
+  background: #171717;
+}
+
+.about-box{
+  padding: 1rem 2rem 1rem 30rem;
+}
+
+.about1{
+  font-size: 2.5vw;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.name1{
+  color: #0000FF;
+  /* #035aa6 */
+  text-decoration: inherit;
+}
+
+/* <!-- font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif; --> */
+
+.about2{
+  font-size: 1.3vw;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.img1{
+  height: 50%;
+  max-width: 70%;
+  border-radius: 25px;
+  background: url(images/im1.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 3%;
+}
