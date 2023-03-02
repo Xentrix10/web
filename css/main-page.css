@@ -1,0 +1,104 @@
+
+.login-btn{
+  white-space: nowrap;
+}
+
+.image-box{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.image-box img{
+
+  /* Full height */
+   height: 100vh;
+   width: 100vw;
+   /* Center and scale the image nicely */
+
+   background-repeat: no-repeat;
+
+}
+
+.main-text{
+  position: absolute;
+  top: 30%;
+  bottom: 50%;
+  left: 35%;
+  right: 50%;
+  white-space: nowrap;
+  font-size: 5vw;
+  text-align: center;
+  align-items: center;
+}
+
+
+/* footer */
+
+.footer-box{
+  background-color: #18191B;
+}
+
+/* footer b is for styling footer and footer box is for outer styling */
+
+.f-company-email-m-box{
+  padding-top: 20%;
+  color: white;
+}
+
+.orderButton {
+			color: #f7f7f7;
+			background-color: #38da0b;
+			font-size: 20px;
+			border: 1px solid #2d63c8;
+			border-radius: 28px;
+			padding: 15px 50px;
+			cursor: pointer
+		}
+		.orderButton:hover {
+			color: #2d63c8;
+			background-color: #ffffff;
+		}
+
+    .footer-b{
+    padding: 5% 5% 1% 5%;
+    color: white;
+    }
+
+.footer-below-headline{
+
+}
+
+.f-company-tag{
+
+}
+
+.f-company-headline{
+  white-space: nowrap;
+}
+
+
+.f-page-links-1{
+padding: 1rem;
+}
+
+.f-page-links-2{
+  white-space: nowrap;
+  padding: 1rem;
+}
+
+.footer-below-headline{
+  padding-right: 2rem;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.grid-container-2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
